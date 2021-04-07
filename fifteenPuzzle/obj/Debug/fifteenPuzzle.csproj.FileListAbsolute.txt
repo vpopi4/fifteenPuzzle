@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\bin\Debug\fifteenPuzzle.exe.config
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\bin\Debug\fifteenPuzzle.exe
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\bin\Debug\fifteenPuzzle.pdb
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.Form1.resources
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.Properties.Resources.resources
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.exe
+C:\Users\Student\source\repos\fifteenPuzzle\fifteenPuzzle\obj\Debug\fifteenPuzzle.pdb
